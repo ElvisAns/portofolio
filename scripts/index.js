@@ -95,9 +95,9 @@ tsParticles.load("tsparticles", {
     }
   },
   particles: {
-    color: { value: "#fd3e62" },
+    color: { value: "#eee" },
     line_linked: {
-      color: "#fd3e62",
+      color: "#eee",
       distance: 150,
       enable: true,
       opacity: 0.4,
