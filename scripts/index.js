@@ -161,5 +161,3 @@ $(function(){
     }
   );
 });
-
-var stl_viewer=new StlViewer(document.getElementById("stl_cont"), { models: [ {id:0, filename:"ss.stl"} ] });
