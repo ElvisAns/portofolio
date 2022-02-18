@@ -155,7 +155,9 @@ tsParticles.load("tsparticles", {
 
 $(function(){
   var coverflow = $("#coverflow").flipster(
-    loop: false,
-    autoplay: false,
+    {
+      loop: true,
+      fadeIn: 3000,
+    }
   );
 });
