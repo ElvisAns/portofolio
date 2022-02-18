@@ -153,14 +153,3 @@ tsParticles.load("tsparticles", {
   retina_detect: true
 });
 
-$(function(){
-  $(".box").ig3js({
-    manifest: [
-      {src:"a.png", id:"image1"},
-      {src:"b.png", id:"image2"},
-      {src:"c.png", id:"image3"}
-    ],
-    imagePath: 'assets/images/',
-    alphaBackground: true
-  });
-});
