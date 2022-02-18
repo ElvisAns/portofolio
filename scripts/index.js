@@ -153,3 +153,9 @@ tsParticles.load("tsparticles", {
   retina_detect: true
 });
 
+$(function(){
+  var coverflow = $("#coverflow").flipster(
+    loop: false,
+    autoplay: false,
+  );
+});
