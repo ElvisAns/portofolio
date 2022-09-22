@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&family=Poppins:wght@900&display=swap');
 
 a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
   margin: 0;
@@ -242,7 +242,7 @@ textarea {
 }
 
 body {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 125%;
   background: #f7f7f7;
   display: -webkit-box;
@@ -276,7 +276,6 @@ section {
 .sectionContainer {
   background-color: white;
   border-radius: 50px;
-  padding: 48px;
 }
 
 .sectionHead {
@@ -494,8 +493,8 @@ header .heroImageContainer img {
   margin: 0 auto;
   width: 350px;
   height: 350px;
-  -webkit-box-shadow: 12px 0 #d9c8f1, 24px 0 #e2d6f3, 36px 0 #ece6f5;
-          box-shadow: 12px 0 #d9c8f1, 24px 0 #e2d6f3, 36px 0 #ece6f5;
+  /*-webkit-box-shadow: 12px 0 #d9c8f1, 24px 0 #e2d6f3, 36px 0 #ece6f5;
+          box-shadow: 12px 0 #d9c8f1, 24px 0 #e2d6f3, 36px 0 #ece6f5;*/
 }
 
 header .heroDescription {
@@ -843,7 +842,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   transition: all 0.3s ease-in;
   padding: 11px 20px;
   font-size: 1rem;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 1px;
   width: 100%;
 }
@@ -865,7 +864,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   letter-spacing: 1px;
   color: #6c757d;
   opacity: 1;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .contactFormContainer form :-ms-input-placeholder {
@@ -873,7 +872,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   letter-spacing: 1px;
   color: #6c757d;
   opacity: 1;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .contactFormContainer form ::-ms-input-placeholder {
@@ -881,7 +880,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   letter-spacing: 1px;
   color: #6c757d;
   opacity: 1;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .contactFormContainer form ::placeholder {
@@ -889,7 +888,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   letter-spacing: 1px;
   color: #6c757d;
   opacity: 1;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .contactFormContainer form .subjectInput,
