@@ -382,7 +382,8 @@ section {
   font-size: 3rem;
   letter-spacing: 1px;
   font-weight: 300;
-  background-color: #9D69E5;;
+  background-color: #def858;
+  color : #212228;
 }
 
 .sideMenu nav {
@@ -542,7 +543,8 @@ header .heroDescription .socialsResume {
 }
 
 header .heroDescription .socialsResume .resumeLink {
-  background-color: #fd3e62;
+  background-color: #212228;
+  color : #def858;
   padding: 15px 35px;
   border-radius: 40px;
   letter-spacing: 2px;
@@ -1132,9 +1134,9 @@ canvas {
 }
 
 #footer {
-    background: #9d69e5;
+    background: #def858;
     padding: 0 0 30px 0;
-    color: #fff;
+    color: #212228;
     font-size: 14px
 }
 
