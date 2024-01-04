@@ -645,6 +645,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
 .skillsGrid li img {
   width: 35px;
   height: 35px;
+  object-fit: contain;
 }
 
 .workBox {
