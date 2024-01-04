@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/"
+to = "https://ansima.dev"
+status = 301
+force = true
