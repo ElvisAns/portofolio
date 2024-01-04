@@ -417,6 +417,7 @@ section {
 
 .sideMenu nav a:hover, .sideMenu nav a:focus {
   background-color: #9D69E5;
+  color : #def858;
   -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.2);
           box-shadow: 0 14px 28px rgba(0, 0, 0, 0.2);
 }
